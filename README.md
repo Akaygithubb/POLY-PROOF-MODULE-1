@@ -26,5 +26,3 @@ npx hardhat run scripts/approvedDeposit.js --network volta
 ```
 NFT transfered from Volta to Sepolia.
 
-Loom Video link for verification: https://www.loom.com/share/d45ba172bcd74d27bbb468c3ba37ffd3?sid=6a66bf02-f945-4848-bffa-7b08dd43dd01
-
